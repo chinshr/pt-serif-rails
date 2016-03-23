@@ -1,0 +1,8 @@
+/* BEGIN Bold-Italic */
+@font-face {
+  font-family: "PT Serif";
+  @include fontdef($FontPath, $FontName, $FontVersion, "bold-italic");
+  font-weight: 700;
+  font-style: italic;
+}
+/* END Bold-Italic */

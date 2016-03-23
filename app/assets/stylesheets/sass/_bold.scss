@@ -1,0 +1,8 @@
+/* BEGIN Bold */
+@font-face {
+  font-family: "PT Serif";
+  @include fontdef($FontPath, $FontName, $FontVersion, "bold");
+  font-weight: 700;
+  font-style: normal;
+}
+/* END Bold */
