@@ -1,6 +1,6 @@
 # pt-serif-rails
 
-pt-serif-rails provides the Lato web fonts and
+pt-serif-rails provides the PT Serif web fonts and
 stylesheets as a Rails engine for use with the asset pipeline.
 
 ## Installation
